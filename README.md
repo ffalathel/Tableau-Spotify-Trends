@@ -1,10 +1,3 @@
-Great — here's the final, corrected `README.md` that reflects your interactive Tableau-based Spotify Recap dashboard, including dynamic artist/song filtering and playback support.
-
-
-
-`markdown
- 🎧 Interactive Spotify Recap Dashboard (Tableau)
-
 This project is a fully interactive Spotify Recap Dashboard, built in Tableau using your personal Spotify listening history. Inspired by Spotify Wrapped, this version provides clickable visual analytics, including top artists, top songs, time-of-day behavior, and the ability to play tracks via embedded Spotify.
 
 
