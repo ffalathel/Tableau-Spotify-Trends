@@ -110,7 +110,3 @@ Merged into a single CSV using Python or Excel.
 
 MIT License — use it, remix it, share it.
 
-
-
-Would you like this saved as a downloadable file or in a GitHub project structure template?
-
